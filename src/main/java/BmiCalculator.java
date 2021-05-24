@@ -29,3 +29,6 @@ public class BmiCalculator {
     }
 
 }}
+
+//seperate classes for feet and inches and stone and pounds
+//parameter feet
